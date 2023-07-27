@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
+</div>
 <br />
 
 <p align="center"><b>🛠 Tech Stack</b></p>
@@ -11,17 +11,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <br />
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 </p>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide_progress=true)
-<br />
-
 <p align="center"><b>📈 GiHub Stats</b></p>
-<p align="center
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide_progress=true" align="left" style="width: 100%" />
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 40%" />
 </p>
 <br />
