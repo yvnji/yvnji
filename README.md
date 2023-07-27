@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=170&section=header&text=&fontSize=90" />
 </div>
 <br />
 
@@ -19,6 +19,6 @@
 
 <p align="center"><b>📈 GiHub Stats</b></p>
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 40%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 50%" />
 </p>
 <br />
