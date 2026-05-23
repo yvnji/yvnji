@@ -1,53 +1,47 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=170&section=header&text=&fontSize=90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=Yunji+Kim+%F0%9F%93%8D+Melbourne;backend+%7C+cloud+engineering+%E2%98%81%EF%B8%8F;AWS+Lambda+%7C+API+Gateway+%7C+DynamoDB;" />
 </div>
 
-<h3 align="center">Hi, I'm Yunji 👋</h3>
-<p align="center">
-  AWS Cloud Engineer based in Melbourne, Australia 🇦🇺<br/>
-  2+ years of production experience building serverless backends for AI platforms<br/>
-</p>
+<br/>
 
-<br />
+## 🙋 About Me
 
-<p align="center"><b>☁️ Cloud & Infrastructure</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>&nbsp
-  <br/>
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp
-</p>
+```
+☁️  Designed & operated serverless AWS backends for live AI platforms
+🏆  Products reached 1M+ global users — CES Innovation Award (2024 & 2025)
+🚀  Multi-region deployments (Seoul + US) with GitHub Actions CI/CD
+📍  Based in Melbourne, Australia | Full Working Rights
+```
 
-<br />
+<br/>
 
-<p align="center"><b>🛠 Languages & Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-</p>
+## ☁️ Cloud & Infrastructure
 
-<br />
+<div align="center">
 
-<p align="center"><b>📌 Featured Projects</b></p>
-<p align="center">
-  <a href="https://github.com/yvnji/heyd-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvnji&repo=heyd-backend&hide_border=true" />
-  </a>
-  <a href="https://github.com/yvnji/neuroid-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvnji&repo=neuroid-backend&hide_border=true" />
-  </a>
-</p>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-<br />
+</div>
 
-<p align="center"><b>📈 GitHub Stats</b></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvnji&hide=jupyter%20notebook&layout=compact&hide_border=true" style="width: 50%" />
-</p>
+<br/>
+
+## 🛠 Languages & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
